@@ -4,4 +4,4 @@ This module allows any flag (for example: bookmarks) to have both absolute- and 
 
 This provides some interesting usages as an alternative voting or signup system. 
 
-Brought to by markwk from Int3c.com Drupal Consultants
+Brought to by Mark Koester (https://drupal.org/user/1094790) from Int3c.com Drupal Consultants. Original development and testing by Maxim Kokorin (https://drupal.org/user/2283380).
